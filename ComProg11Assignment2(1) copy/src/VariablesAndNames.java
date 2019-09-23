@@ -56,7 +56,7 @@ public class VariablesAndNames {
         System.out.println("| 8 |                   "+TwoFour+" |       "+TwoFourTeacher+" |");
         System.out.println("+-----------------------------------------------------------------------+");
 
-        System.out.println("Finished");
+        System.out.println("\nFinished");
 
     }
 
