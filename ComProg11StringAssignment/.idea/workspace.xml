@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba59e354-7653-4721-8309-c3c8ded6f9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/ComProg11StringAssignment/StringAssignmentImage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ComProg11StringAssignment/StringAssignmentImage.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/StringAssignmentImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAssignmentImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComputerProgramming11ExpressionAssignment-masterFinished (1)/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComputerProgramming11ExpressionAssignment-masterFinished (1)/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -75,6 +75,9 @@
       <updated>1569263459117</updated>
       <workItem from="1569263461920" duration="180000" />
       <workItem from="1569436420966" duration="48000" />
+      <workItem from="1569604976435" duration="6000" />
+      <workItem from="1569605030726" duration="1962000" />
+      <workItem from="1569607003673" duration="2285000" />
     </task>
     <servers />
   </component>
@@ -86,7 +89,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
