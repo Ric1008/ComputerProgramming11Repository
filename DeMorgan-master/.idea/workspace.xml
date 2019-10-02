@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cc6726e-90e4-4e33-a780-3cdb13f5921c" name="Default Changelist" comment="" />
+    <list default="true" id="4523c586-0d9c-40ef-bc3a-c4880cadc491" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,13 +11,6 @@
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -26,18 +19,12 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
-  <component name="ProjectId" id="1Rc7MdJCBgrgZsWZeTbNorpmnLG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1RdVZABJkMw6NNFBoYNc5TvCdIE" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DeMorgan-master" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DeMorgan-masterFinishedComProg11" />
+    <property name="settings.editor.selected.configurable" value="Shelf.Project.Settings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,33 +38,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="DeMorganTesting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DeMorganTesting" />
-      <module name="DeMorganTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.DeMorganTesting" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3cc6726e-90e4-4e33-a780-3cdb13f5921c" name="Default Changelist" comment="" />
-      <created>1569954483892</created>
+      <changelist id="4523c586-0d9c-40ef-bc3a-c4880cadc491" name="Default Changelist" comment="" />
+      <created>1569997012683</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569954483892</updated>
-      <workItem from="1569954488110" duration="407000" />
-      <workItem from="1569996672403" duration="297000" />
-      <workItem from="1569996979818" duration="2460000" />
+      <updated>1569997012683</updated>
+      <workItem from="1569997013936" duration="2370000" />
     </task>
     <servers />
   </component>
@@ -89,9 +60,7 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>

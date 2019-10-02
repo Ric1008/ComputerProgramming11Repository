@@ -1,8 +1,6 @@
-public class DeMorganTesting {
+public class Main {
     public static void main(String[] args) {
-
         //Question 1
-        System.out.println("Question 1");
         int x = 5;
         int y = 7;
         System.out.println(((x*4) < (y + 15)) && x < y);
@@ -17,8 +15,6 @@ public class DeMorganTesting {
         System.out.println(true);
 
         //Question 2
-        System.out.println("\n");
-        System.out.println("Question 2");
         x = 10;
         y = 20;
         int z = 30;
@@ -40,8 +36,6 @@ public class DeMorganTesting {
         System.out.println(false);
 
         //Question 3
-        System.out.println("\n");
-        System.out.println("Question 3");
         boolean a = true;
         boolean b = false;
         System.out.println((a || b) && ((a == b) || a));
@@ -56,9 +50,6 @@ public class DeMorganTesting {
         System.out.println(true);
 
         //Question 4
-        System.out.println("\n");
-        System.out.println(10%6);
-        System.out.println("Question 4");
         a = false;
         b = false;
         x = 5;
@@ -76,9 +67,6 @@ public class DeMorganTesting {
         System.out.println(true);
 
         //Question 5
-        System.out.println("\n");
-        System.out.println(-4 <= 4);
-        System.out.println("Question 5");
         System.out.println((Math.abs(-2) == 2) || (Math.sqrt(Math.pow(9,2)) <= 9 && (-4 <= 4)));
         System.out.println((2 == 2) || (Math.sqrt(Math.pow(9,2)) <= 9 && (-4 <= 4)));
         System.out.println(true || (Math.sqrt(Math.pow(9,2)) <= 9 && (-4 <= 4)));
@@ -88,6 +76,6 @@ public class DeMorganTesting {
         System.out.println(true || (true && true));
         System.out.println(true || true);
         System.out.println(true);
-
     }
 }
+
