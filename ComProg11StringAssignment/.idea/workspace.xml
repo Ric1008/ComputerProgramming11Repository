@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba59e354-7653-4721-8309-c3c8ded6f9d8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../DeMorgan-master/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeMorgan-master/.idea/DeMorgan-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeMorgan-master/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DeMorgan-master/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../DeMorgan-master/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/StringAssignmentImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/StringAssignmentImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DeMorgan-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../DeMorgan-master/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +83,7 @@
       <workItem from="1569607003673" duration="2285000" />
       <workItem from="1569953884369" duration="158000" />
       <workItem from="1569954138403" duration="768000" />
+      <workItem from="1570123208484" duration="4500000" />
     </task>
     <servers />
   </component>

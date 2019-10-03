@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4523c586-0d9c-40ef-bc3a-c4880cadc491" name="Default Changelist" comment="" />
+    <list default="true" id="4523c586-0d9c-40ef-bc3a-c4880cadc491" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/DeMorgan-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComProg11StringAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11StringAssignment/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComProg11StringAssignment/src/StringAssignmentImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11StringAssignment/src/StringAssignmentImage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +28,7 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1RdVZABJkMw6NNFBoYNc5TvCdIE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -49,6 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1569997012683</updated>
       <workItem from="1569997013936" duration="2370000" />
+      <workItem from="1570123209716" duration="598000" />
     </task>
     <servers />
   </component>
@@ -60,7 +70,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
