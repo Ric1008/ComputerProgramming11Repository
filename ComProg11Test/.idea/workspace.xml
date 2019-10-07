@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ba59e354-7653-4721-8309-c3c8ded6f9d8" name="Default Changelist" comment="" />
+    <list default="true" id="e7fdb90b-c28d-4cca-a3eb-5c5077a2ebac" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,16 +15,10 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectId" id="1RFWjVRBXsN3XO0NBYEvxLpVbTK" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1Rsxyc2OawlY8jnnq2scnhzPLG7" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DeMorgan-master" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -45,16 +39,16 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="StringAssignmentImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringAssignmentImage" />
-      <module name="ComProg11StringAssignment" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ComProg11Test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringAssignmentImage" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -63,37 +57,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ba59e354-7653-4721-8309-c3c8ded6f9d8" name="Default Changelist" comment="" />
-      <created>1569263459117</created>
+      <changelist id="e7fdb90b-c28d-4cca-a3eb-5c5077a2ebac" name="Default Changelist" comment="" />
+      <created>1570469859704</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1569263459117</updated>
-      <workItem from="1569263461920" duration="180000" />
-      <workItem from="1569436420966" duration="48000" />
-      <workItem from="1569604976435" duration="6000" />
-      <workItem from="1569605030726" duration="1962000" />
-      <workItem from="1569607003673" duration="2285000" />
-      <workItem from="1569953884369" duration="158000" />
-      <workItem from="1569954138403" duration="768000" />
-      <workItem from="1570123208484" duration="4500000" />
-      <workItem from="1570468850564" duration="12000" />
+      <updated>1570469859704</updated>
+      <workItem from="1570469863613" duration="2149000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
