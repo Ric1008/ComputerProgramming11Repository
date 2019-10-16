@@ -9,5 +9,6 @@ public class Multiply {
         int n=Integer.parseInt(scan.next());
         int p=Integer.parseInt(scan.next());
         System.out.println(n*Math.pow(2,p));
+
     }
 }
