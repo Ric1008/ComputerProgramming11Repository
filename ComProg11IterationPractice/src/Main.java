@@ -1,5 +1,4 @@
-import com.sun.org.apache.xpath.internal.objects.XString;
-import com.sun.org.apache.xpath.internal.objects.XStringForChars;
+
 
 import java.util.Scanner;
 
@@ -11,9 +10,15 @@ Scanner scan=new Scanner(System.in);
 
 
 do{
+    System.out.println("enter the correct number");
 s=Integer.parseInt(scan.next());
 }
-while(s!=7);
+while(s!=7);{
+            System.out.println("yeah");
+        }
+
+
+
 
     }
 }
