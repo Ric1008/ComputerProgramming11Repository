@@ -12,10 +12,10 @@ public class Modular {
         int time=0;
         double morerange=0;
         double eight=0;
-        System.out.println("input the first number of the range(the smaller one) you want then input a number one larger than the second number you want for the range (the larger one)");
+        System.out.println("input the first number of the range(the smaller one) you want then input the second number you want for the range (the larger one)");
         frange=Double.parseDouble(scan.next());
         lrange=Double.parseDouble(scan.next());
-        for (double i=frange; i<lrange; i++){
+        for (double i=frange; i<lrange+1; i++){
 
             seven=i%7;
             eight=i/7;
