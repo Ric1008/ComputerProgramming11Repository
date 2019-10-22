@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb6c15ab-4c6c-4404-960f-80ec9f703606" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/src/Grades.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/src/Modular.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/src/Password.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/src/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/src/Range.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />

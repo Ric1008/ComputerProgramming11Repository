@@ -9,5 +9,6 @@ int age;
 age=Integer.parseInt(scan.next());
         }
         while(age<10||age>50);
+        System.out.println("correct");
     }
 }
