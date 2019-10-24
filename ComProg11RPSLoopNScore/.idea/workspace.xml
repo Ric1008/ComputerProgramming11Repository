@@ -2,20 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb6dc742-06b7-45ab-853e-e3cd9d08ff81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ComProg11RPSLoopNScore.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Grades.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Grades.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Modular.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Modular.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Multiply.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Multiply.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Password.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Password.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Range.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Range.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Seven.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/out/production/ComProg11IterationPractice/Seven.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ComProg11RPSLoopNScore/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ComProg11RPSLoopNScore/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,7 +28,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ComProg11Encryption" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -86,6 +75,7 @@
       <workItem from="1571765710904" duration="221000" />
       <workItem from="1571766031065" duration="2312000" />
       <workItem from="1571768364015" duration="973000" />
+      <workItem from="1571937726670" duration="1799000" />
     </task>
     <servers />
   </component>

@@ -50,7 +50,9 @@ public class Main {
         String go;
 
 
-do{ go=scan.next();
+do{
+    System.out.println("Would you like to play Rock Paper Scissors? ");
+    go=scan.next();
         System.out.println("Let's play Rock Paper Scissors against RPS Bot! (Robotic Player Systems)\n" +
                 "Click right under this mesasage, then type Rock for Rock, Paper for Paper, or Scissors for Scissors and press enter! \n" +
                 "The game will ONLY accept the above words in upercase! NOTHING ELSE! \nIf you " +
