@@ -6,9 +6,19 @@ public class Main {
 
         String chose;
 
-        String rechange;
+        String rechange="kjafjioaj;ofei fja   jfjafio;eaf;e'sdfhsv hci838r hvzoubpr qf8 yagvbv;z3r28tp9 4w4yq r30--rgres ";
+        String rchange="guahguro3qh7 f3wu9a hr32 1re;b 'v58 t4 yt4tqa;p 6ttt43g 4  t3 yf    f3u y7f23qpuaafygeygewi32r ;iofdxw0-er48ty7ythw aia ";
         chose=scan.nextLine();
-        String change=chose;
+        String change=rechange+chose+rchange;
+        System.out.println("\n");
+        for(int i=0;i<chose.length();i++){
+            if(chose.substring(i,i+1).equals("e")||chose.substring(i,i+1).equals("a")){
+                System.out.println(change);
+            }
+
+        }
         System.out.println(change);
+        System.out.println("\n");
+        System.out.println(chose);
     }
 }
