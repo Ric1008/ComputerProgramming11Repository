@@ -25,7 +25,7 @@ public class Main {
         a little to make more sense.
          */
         Scanner scan= new Scanner(System.in);
-        int oneToThree =(int)(Math.random()*3)+1;
+
         int rock=1;
         int paper=2;
         int scissors=3;
@@ -53,13 +53,13 @@ public class Main {
 
 
 do{
-    System.out.println("Would you like to play Rock Paper Scissors? ");
-    go=scan.next();
+
+    int oneToThree =(int)(Math.random()*3)+1;
     System.out.println("Your Score: "+scr+" Com Score: "+comscr);
         System.out.println("Let's play Rock Paper Scissors against RPS Bot! (Robotic Player Systems)\n" +
                 "Click right under this mesasage, then type Rock for Rock, Paper for Paper, or Scissors for Scissors and press enter! \n" +
                 "The game will ONLY accept the above words in upercase! NOTHING ELSE! \nIf you " +
-                "need to rerun the program press the green arrow.");
+                "need to rerun the program press the green arrow. Press x if you don't want to play.");
         chose=scan.next();
 
         if(oneToThree==rock&&chose.equals(rocky)) {
@@ -103,7 +103,7 @@ do{
                     " \nNow press the green triangle to rerun the program, \nthen click underneath the message that appears at the start. \nType" +
                     " Rock to choose Rock, Paper for Paper, or Scissors for Scissors. \nThe game will ONLY accept the above words in uppercase! NOTHING ELSE!" +
                     "\nThen, press enter to try your luck!");}
-        }while((go.equals(Y)||go.equals(y)||go.equals(Yes)||go.equals(yes))||(!go.equals(x)&&!go.equals(X)&&!go.equals(n)&&!go.equals(N)&&!go.equals(No)&&!go.equals(no)) );
+        }while((chose.equals(Y)||chose.equals(y)||chose.equals(Yes)||chose.equals(yes))||(!chose.equals(x)&&!chose.equals(X)&&!chose.equals(n)&&!chose.equals(N)&&!chose.equals(No)&&!chose.equals(no)) );
 
     }
 }

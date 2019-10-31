@@ -2,12 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cb6dc742-06b7-45ab-853e-e3cd9d08ff81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ComProg11Encryption/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11Encryption/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComProg11Encryption/out/production/ComProg11Encryption/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11Encryption/out/production/ComProg11Encryption/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComProg11Encryption/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11Encryption/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ComProg11RPSLoopNScore/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ComProg11RPSLoopNScore/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ComProg11RPSLoopNScore/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,6 +89,7 @@
       <workItem from="1572370035173" duration="103000" />
       <workItem from="1572370236426" duration="599000" />
       <workItem from="1572512633602" duration="332000" />
+      <workItem from="1572542341124" duration="2987000" />
     </task>
     <servers />
   </component>
