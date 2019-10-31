@@ -48,11 +48,14 @@ public class Main {
         String No="No";
         String no="no";
         String go;
+        int scr=0;
+        int comscr=0;
 
 
 do{
     System.out.println("Would you like to play Rock Paper Scissors? ");
     go=scan.next();
+    System.out.println("Your Score: "+scr+" Com Score: "+comscr);
         System.out.println("Let's play Rock Paper Scissors against RPS Bot! (Robotic Player Systems)\n" +
                 "Click right under this mesasage, then type Rock for Rock, Paper for Paper, or Scissors for Scissors and press enter! \n" +
                 "The game will ONLY accept the above words in upercase! NOTHING ELSE! \nIf you " +
@@ -64,12 +67,15 @@ do{
         }
         else if(oneToThree==rock&&chose.equals(scissorsy)){
             System.out.println("RPS Bot chose Rock and you chose Scissors. "+lose);
+            comscr++;
         }
         else if(oneToThree==rock&&chose.equals(papery)){
             System.out.println("RPS Bot chose Rock and you chose Paper. "+win);
+            scr++;
         }
         else if(oneToThree==paper&&chose.equals(rocky)){
             System.out.println("RPS Bot chose Paper and you chose Rock. "+lose);
+            comscr++;
         }
         else if(oneToThree==paper&&chose.equals(papery)){
             System.out.println("You both chose Paper. "+tie);
@@ -77,12 +83,15 @@ do{
         }
         else if(oneToThree==paper&&chose.equals(scissorsy)){
             System.out.println("RPS Bot chose Paper and you chose Scissors. "+win);
+            scr++;
         }
         else if(oneToThree==scissors&&chose.equals(rocky)){
             System.out.println("RPS Bot chose Scissors and you chose Rock. "+win);
+            scr++;
         }
         else if(oneToThree==scissors&&chose.equals(papery)){
             System.out.println("RPS Bot chose Scissors and you chose Paper. "+lose);
+            comscr++;
         }
         else if(oneToThree==scissors&&chose.equals(scissorsy)){
             System.out.println("You both chose Scissors. "+tie);
