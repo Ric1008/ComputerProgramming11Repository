@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb6dc742-06b7-45ab-853e-e3cd9d08ff81" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11Encryption/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11Encryption/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ComProg11RPSLoopNScore/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="cb6dc742-06b7-45ab-853e-e3cd9d08ff81" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,7 +80,7 @@
       <workItem from="1571937726670" duration="1799000" />
       <workItem from="1572370035173" duration="103000" />
       <workItem from="1572370236426" duration="599000" />
-      <workItem from="1572512633602" duration="332000" />
+      <workItem from="1572512633602" duration="958000" />
     </task>
     <servers />
   </component>
