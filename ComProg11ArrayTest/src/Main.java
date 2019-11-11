@@ -12,9 +12,13 @@ public class Main {
         }
         System.out.println(Arrays.toString(arr));
 
+
         int[] twenty=new int[20];
         for(int a=0; a<twenty.length; a++){
+            int rNG =(int)(Math.random()*6)+1;
+                twenty[a]=rNG;
 
         }
+        System.out.println(Arrays.toString(twenty));
     }
 }
