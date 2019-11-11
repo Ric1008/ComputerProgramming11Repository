@@ -14,7 +14,7 @@ public class Main {
 
         int[] twenty=new int[20];
         for(int a=0; a<twenty.length; a++){
-            
+
         }
     }
 }
