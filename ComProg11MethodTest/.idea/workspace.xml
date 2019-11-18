@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f792ff8-deb5-4d18-95ec-9272354e1c46" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11ArrayTest/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11ArrayTest/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11ArrayOutput/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11ArrayOutput/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11ArrayOutput/ComProg11ArrayOutput.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Method1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Method1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Method1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Method1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Method1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Method1/ComProg11Method1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11Method1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11MethodArgh/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11MethodArgh/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11MethodArgh/ComProg11MethodArgh.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,6 +25,9 @@
   </component>
   <component name="CodeStyleSettingsInfer">
     <option name="done" value="true" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../ComProg11MethodTest\exportToHTML" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -36,7 +48,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ComProg11ArrayOutput" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -90,6 +102,11 @@
       <updated>1573751087258</updated>
       <workItem from="1573751093336" duration="2960000" />
       <workItem from="1573981795736" duration="71000" />
+      <workItem from="1574038192714" duration="652000" />
+      <workItem from="1574043572495" duration="2160000" />
+      <workItem from="1574064886354" duration="13000" />
+      <workItem from="1574065280240" duration="4000" />
+      <workItem from="1574066922722" duration="37000" />
     </task>
     <servers />
   </component>
@@ -101,7 +118,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
