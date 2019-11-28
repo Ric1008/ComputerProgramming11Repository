@@ -2,10 +2,11 @@ public class Main {
     //Code your solution to problem number one here
     static int problemOne(String s){
         int answer = 0;
+        int vowel=0;
         //your code here
         for(int i=0; i<s.length(); i++){
             if(s.substring(i)=="a"||s.substring(i)=="e"||s.substring(i)=="i"||s.substring(i)=="o"||s.substring(i)=="u"){
-answer+=1;
+vowel+=1;
 return answer;
             }
             return answer;
