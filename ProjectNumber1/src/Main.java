@@ -4,9 +4,11 @@ public class Main {
         int answer = 0;
         //your code here
         for(int i=0; i<s.length(); i++){
-            if(s.substring()=="a"||s.substring()=="e"||s.substring()=="i"||s.substring()=="o"||s.substring()=="u"){
+            if(s.substring(i)=="a"||s.substring(i)=="e"||s.substring(i)=="i"||s.substring(i)=="o"||s.substring(i)=="u"){
 answer+=1;
+return answer;
             }
+            return answer;
         }
         return answer;
     }
@@ -29,6 +31,7 @@ answer+=1;
         The tests will put your method through several different Strings to test
         all possible cases.  If you have 100% success then there is no bugs in your methods.
          */
+        System.out.println();
         String s;
         System.out.println('c'<'d');
         System.out.println('j'+'j');
