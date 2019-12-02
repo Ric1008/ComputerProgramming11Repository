@@ -36,14 +36,14 @@ for(int i=0; i<s.length(); i++)
         System.out.println("h "+hold);
         System.out.println("s "+s);
 
-        // Iterate over string length
+        // 
         for (int i = 0; i < s.length() - 1; i++) {
             System.out.println("c "+counter);
             System.out.println("b " +big);
             System.out.println("h "+hold);
             System.out.println("s "+s);
             System.out.println("i "+i);
-            // if any two chars are in alphabetic order
+            //
             if (s.charAt(i) + 1 >= s.charAt(i)) {
                 if(s.charAt(i+1)>=s.charAt(i)+1) {
                     System.out.println("c " + counter);
@@ -59,7 +59,7 @@ for(int i=0; i<s.length(); i++)
                     System.out.println("h " + hold);
                     System.out.println("s " + s);
                     System.out.println("i " + i);
-                    // find next char not in order
+                    //
                     while (s.charAt(i) + 1 >= s.charAt(i)) {
                         while (s.charAt(i + 1) >= s.charAt(i) + 1) {
                             System.out.println("c " + counter);
