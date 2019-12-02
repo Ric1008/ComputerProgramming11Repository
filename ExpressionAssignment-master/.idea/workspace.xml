@@ -2,11 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bb6c15ab-4c6c-4404-960f-80ec9f703606" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/src/Modular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/src/Password.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ComProg11IterationPractice/src/Range.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11IterationPractice/src/Range.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectNumber1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer_Programming_11_Lesson_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer_Programming_11_Lesson_1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectNumber1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectNumber1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectNumber1/out/production/ProjectNumber1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectNumber1/out/production/ProjectNumber1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectNumber1/out/production/ProjectNumber1/StringTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectNumber1/out/production/ProjectNumber1/StringTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectNumber1/out/test/ProjectNumber1/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectNumber1/out/test/ProjectNumber1/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectNumber1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectNumber1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringAssignment/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +33,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568399762051" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ComProg11IterationPractice" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Computer_Programming_11_Lesson_1" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="SDKs" />
@@ -63,6 +67,7 @@
       <workItem from="1568396420373" duration="2661000" />
       <workItem from="1571213095381" duration="9000" />
       <workItem from="1571372555614" duration="1272000" />
+      <workItem from="1575271125651" duration="77000" />
     </task>
     <servers />
   </component>

@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb6dc742-06b7-45ab-853e-e3cd9d08ff81" name="Default Changelist" comment="" />
+    <list default="true" id="cb6dc742-06b7-45ab-853e-e3cd9d08ff81" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ProjectNumber1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Computer_Programming_11_Lesson_1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Computer_Programming_11_Lesson_1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExpressionAssignment-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExpressionAssignment-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectNumber1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectNumber1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectNumber1/out/production/ProjectNumber1/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectNumber1/out/production/ProjectNumber1/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectNumber1/out/production/ProjectNumber1/StringTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectNumber1/out/production/ProjectNumber1/StringTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectNumber1/out/test/ProjectNumber1/TestClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectNumber1/out/test/ProjectNumber1/TestClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectNumber1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectNumber1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringAssignment/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringAssignment/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,6 +91,7 @@
       <workItem from="1572370035173" duration="103000" />
       <workItem from="1572370236426" duration="599000" />
       <workItem from="1572512633602" duration="958000" />
+      <workItem from="1575271624343" duration="3000" />
     </task>
     <servers />
   </component>
