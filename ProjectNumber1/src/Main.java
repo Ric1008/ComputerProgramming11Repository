@@ -29,29 +29,106 @@ for(int i=0; i<s.length(); i++)
         int n = s.length();
         int counter = 0;
         int big=0;
+        int hold=0;
 
+        System.out.println("c "+counter);
+        System.out.println("b " +big);
+        System.out.println("h "+hold);
+        System.out.println("s "+s);
 
         // Iterate over string length
         for (int i = 0; i < s.length() - 1; i++) {
+            System.out.println("c "+counter);
+            System.out.println("b " +big);
+            System.out.println("h "+hold);
+            System.out.println("s "+s);
+            System.out.println("i "+i);
             // if any two chars are in alphabetic order
-            if (s.charAt(i) + 1 == s.charAt(i + 1)) {
+            if (s.charAt(i) + 1 >= s.charAt(i)) {
+                if(s.charAt(i+1)>=s.charAt(i)+1) {
+                    System.out.println("c " + counter);
+                    System.out.println("b " + big);
+                    System.out.println("h " + hold);
+                    System.out.println("s " + s);
+                    System.out.println("i " + i);
 
-                counter++;
-                // find next char not in order
-                while (s.charAt(i) + 1 == s.charAt(i + 1)) {
-                    i++;
                     counter++;
-                }
 
+                    System.out.println("c " + counter);
+                    System.out.println("b " + big);
+                    System.out.println("h " + hold);
+                    System.out.println("s " + s);
+                    System.out.println("i " + i);
+                    // find next char not in order
+                    while (s.charAt(i) + 1 >= s.charAt(i)) {
+                        while (s.charAt(i + 1) >= s.charAt(i) + 1) {
+                            System.out.println("c " + counter);
+                            System.out.println("b " + big);
+                            System.out.println("h " + hold);
+                            System.out.println("s " + s);
+                            System.out.println("i " + i);
+
+                            i++;
+
+                            System.out.println("c " + counter);
+                            System.out.println("b " + big);
+                            System.out.println("h " + hold);
+                            System.out.println("s " + s);
+                            System.out.println("i " + i);
+
+                            counter++;
+
+                            System.out.println("c " + counter);
+                            System.out.println("b " + big);
+                            System.out.println("h " + hold);
+                            System.out.println("s " + s);
+                            System.out.println("i " + i);
+                        }
+                    }
+                }
             }
             if(counter>big){
-                counter=big;
+                System.out.println("c "+counter);
+                System.out.println("b " +big);
+                System.out.println("h "+hold);
+                System.out.println("s "+s);
+                System.out.println("i "+i);
+
+                big=counter;
+
+                System.out.println("c "+counter);
+                System.out.println("b " +big);
+                System.out.println("h "+hold);
+                System.out.println("s "+s);
+                System.out.println("i "+i);
+
+                hold=i;
+
+                System.out.println("c "+counter);
+                System.out.println("b " +big);
+                System.out.println("h "+hold);
+                System.out.println("s "+s);
+                System.out.println("i "+i);
             }
-            for (int a = 0; a < s.substring(a,a+big).length() - 1; a++){
-                char[] chain=a;
-            char[a] chain = s.charAt(a);
-            }
+
+            System.out.println("c "+counter);
+            System.out.println("b " +big);
+            System.out.println("h "+hold);
+            System.out.println("s "+s);
+            System.out.println("i "+i);
+
+
+            System.out.println("c "+counter);
+            System.out.println("b " +big);
+            System.out.println("h "+hold);
+            System.out.println("s "+s);
+            System.out.println("i "+i);
         }
+        System.out.println("c "+counter);
+        System.out.println("b " +big);
+        System.out.println("h "+hold);
+        System.out.println("s "+s);
+
 
         return s;
     }

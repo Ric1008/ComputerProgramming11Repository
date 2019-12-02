@@ -46,3 +46,7 @@ public class Main
 }
 //contributed by Arnab Kundu
 
+for (int a = 0; a < s.substring(a,a+big).length() - 1; a++){
+        char[] chain=a;
+        char[a] chain = s.charAt(a);
+        }
