@@ -1,4 +1,3 @@
-
 public class StringTests {
     public static String[] problemOne = {"ysqundfruogaxcruaqhieie",
             "wurexc",
