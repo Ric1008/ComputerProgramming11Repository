@@ -3,17 +3,26 @@ public class Main {
     static int problemOne(String s){
         int answer = 0;
         //your code here
+        for(int i=0; i<s.length(); i++)
+            if(s.substring(i,i+1).equals("a")||s.substring(i,i+1).equals("e")||s.substring(i,i+1).equals("i")||s.substring(i,i+1).equals("o")||s.substring(i,i+1).equals("u")){
+                answer+=1;
+            }
         return answer;
     }
     //Code you problem number two here
     static int problemTwo(String s){
         int answer = 0;
         //your code here
+        for(int i=0; i<s.length()-2; i++)
+            if(s.substring(i,i+3).equals("bob")){
+                answer+=1;
+            }
         return answer;
     }
     //Code your solution to problem number 3 here
     static String problemThree(String s){
         //your code here
+
         return s;
     }
     public static void main(String[] args) {

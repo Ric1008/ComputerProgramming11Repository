@@ -2,8 +2,7 @@
 // Java to find the number of substrings
 // in alphabetical order
 import java.util.*;
-public class Main
-{
+
 
     // Function to find number of substrings
     static int findSubstringCount(String str)
@@ -43,7 +42,7 @@ public class Main
 
     }
 
-}
+
 //contributed by Arnab Kundu
 
 for (int a = 0; a < s.substring(a,a+big).length() - 1; a++){

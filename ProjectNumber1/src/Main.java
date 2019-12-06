@@ -1,3 +1,8 @@
+
+// Java to find the number of substrings
+// in alphabetical order
+import java.util.*;
+
 public class Main {
     //Code your solution to problem number one here
     static int problemOne(String s){
@@ -26,7 +31,52 @@ for(int i=0; i<s.length(); i++)
     static String problemThree(String s) {
         //your code here
         System.out.println("pizza");
-        int taco=1;
+        int taco = 1;
+        // Function to find number of substrings
+        static int findSubstringCount;(String s)
+        {
+            int result = 0;
+            int n = s.length();
+            int counter=0;
+
+            // Iterate over string length
+            for (int i = 0; i < n - 1; i++) {
+                // if any two chars are in alphabetic order
+                if (s.charAt(i) + 1 == s.charAt(i+1)) {
+                    result++;
+                    counter++;
+                    // find next char not in order
+                    while (str.charAt(i) + 1 == str.charAt(i+1)) {
+                        i++;
+                        counter++;
+                    }
+                }
+            }
+
+            // return the result
+            return result;
+        }
+
+        // Driver function
+        public static void main(String args[])
+        {
+            String str = "abcafadfadsabcdefghiiiuijyggg";
+
+            System.out.println(findSubstringCount(s0));
+            System.out.println(str.charAt(2));
+            String a="bone";
+            a="pizza";
+            System.out.println(a);
+
+        }
+
+
+//contributed by Arnab Kundu
+
+        for (int a = 0; a < s.substring(a,a+big).length() - 1; a++){
+            char[] chain=a;
+            char[a] chain = s.charAt(a);
+        }
 
         return s;
     }
