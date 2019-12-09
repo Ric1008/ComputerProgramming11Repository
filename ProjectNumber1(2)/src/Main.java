@@ -21,10 +21,14 @@ public class Main {
     }
     //Code your solution to problem number 3 here
     static String problemThree(String s){
+        int result = 0;
         //your code here
         String alph = "abcdefghijklmnopqrstuvwxyz";
         char[] alphChars = alph.toCharArray();
+        System.out.println("pizza");
+        int taco = 1;
         char[] sChars = s.toCharArray();
+        int counter=0;
 
         int see;
         StringBuilder find = new StringBuilder();
