@@ -23,36 +23,37 @@ public class Main {
     static String problemThree(String s){
         int result = 0;
         //your code here
-        String alph = "abcdefghijklmnopqrstuvwxyz";
-        char[] alphChars = alph.toCharArray();
+        String alph ="abcdefghijklmnopqrstuvwxyz";
+
+        char[] alphChars= alph.toCharArray();
         System.out.println("pizza");
-        int taco = 1;
-        char[] sChars = s.toCharArray();
+        int taco= 1;
+        char[] sChars =s.toCharArray();
         int counter=0;
 
         int see;
-        StringBuilder find = new StringBuilder();
-        String save = "";
-        for (int i = 0; i < s.length(); i++) {
+        StringBuilder find =new StringBuilder();
+        String save ="";
+        for (int i =0; i <s.length();i++) {
 
             see = find.length();
-            for (int a = 0; a < alph.length(); a++) {
-                if (see == 0) {
+            for (int a=0; a< alph.length(); a++) { if (see== 0) {
+
                     find.append(sChars[i]);
+
                     break;
-                } else if (sChars[i] == alphChars[a] && alph.indexOf(sChars[i - 1]) <= alph.indexOf(sChars[i])) {
+                } else if (sChars[i]== alphChars[a]&& alph.indexOf(sChars[i -1]) <=alph.indexOf(sChars[i])) {
+
                     find.append(alphChars[a]);
                     break;
                 } }
 
-            if (see >= find.length()) {
-                if (save.length() < find.length()) {
-                    save = find.toString(); }
+            if (see >=find.length()) {
+                if (save.length() <find.length()) { save= find.toString(); }
 
-                find.delete(0, find.length());
-                i--;
+                find.delete(0,find.length());i-=1;
             } }
-        if (save.length() >= find.length()) {
+        if (save.length()>= find.length()) {
             return save;
         } else {
             return find.toString();
