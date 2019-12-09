@@ -22,9 +22,38 @@ public class Main {
     //Code your solution to problem number 3 here
     static String problemThree(String s){
         //your code here
+        String alph = "abcdefghijklmnopqrstuvwxyz";
+        char[] alphChars = alph.toCharArray();
+        char[] sChars = s.toCharArray();
 
-        return s;
-    }
+        int see;
+        StringBuilder find = new StringBuilder();
+        String save = "";
+        for (int i = 0; i < s.length(); i++) {
+
+            see = find.length();
+            for (int a = 0; a < alph.length(); a++) {
+                if (see == 0) {
+                    find.append(sChars[i]);
+                    break;
+                } else if (sChars[i] == alphChars[a] && alph.indexOf(sChars[i - 1]) <= alph.indexOf(sChars[i])) {
+                    find.append(alphChars[a]);
+                    break;
+                } }
+
+            if (see >= find.length()) {
+                if (save.length() < find.length()) {
+                    save = find.toString(); }
+
+                find.delete(0, find.length());
+                i--;
+            } }
+        if (save.length() >= find.length()) {
+            return save;
+        } else {
+            return find.toString();
+
+        } }
     public static void main(String[] args) {
         /*
         Set s to a string and run your method using s as the parameter
@@ -33,6 +62,23 @@ public class Main {
         The tests will put your method through several different Strings to test
         all possible cases.  If you have 100% success then there is no bugs in your methods.
          */
-        String s;
+
+        String s="uiegahhdjafeawhfehafhehfiaehfehafhhabcdefggghehaufheahghahdv";
+
+        System.out.println();
+        System.out.println('c'<'d');
+        System.out.println('c'+'d');
+        System.out.println('d');
+        System.out.println('a'+'b');
+        System.out.println('a'+'a');
+        System.out.println('a'+'q');
+        System.out.println('a'+'a'+'a');
+        System.out.println('a');
+        System.out.println('a'+'a');
+        System.out.println('a'+'a'+'a');
+        System.out.println('a'+'a'+'a'+'a');
+        System.out.println('a'+'a'+'a'+'a'+'a');
+        System.out.println('a'<'b');
+        System.out.println(problemThree(s));
     }
 }

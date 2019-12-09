@@ -32,16 +32,16 @@ for(int i=0; i<s.length(); i++)
         //your code here
         System.out.println("pizza");
         int taco = 1;
-        // Function to find number of substrings
+
         static int findSubstringCount;(String s)
         {
             int result = 0;
             int n = s.length();
             int counter=0;
 
-            // Iterate over string length
+
             for (int i = 0; i < n - 1; i++) {
-                // if any two chars are in alphabetic order
+                //
                 if (s.charAt(i) + 1 == s.charAt(i+1)) {
                     result++;
                     counter++;
@@ -53,11 +53,11 @@ for(int i=0; i<s.length(); i++)
                 }
             }
 
-            // return the result
+            //
             return result;
         }
 
-        // Driver function
+        //
         public static void main(String args[])
         {
             String str = "abcafadfadsabcdefghiiiuijyggg";
@@ -71,7 +71,7 @@ for(int i=0; i<s.length(); i++)
         }
 
 
-//contributed by Arnab Kundu
+
 
         for (int a = 0; a < s.substring(a,a+big).length() - 1; a++){
             char[] chain=a;
