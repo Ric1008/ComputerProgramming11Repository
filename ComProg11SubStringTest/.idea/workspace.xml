@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62cc1bb1-89b5-47f7-bb9a-a877ca3fb948" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ComProg11ClassTest/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ComProg11RPSWordInput/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComProg11ClassTest/src/Happy.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11ClassTest/src/Happy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComProg11ClassTest/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11ClassTest/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComProg11RPSPolish/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11RPSPolish/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ComProg11RPSPolish/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ComProg11RPSPolish/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +43,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjectNumber1(2)" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ComProg11ClassTest" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -79,6 +86,7 @@
       <workItem from="1575861736448" duration="110000" />
       <workItem from="1575861869124" duration="29000" />
       <workItem from="1575861964934" duration="11000" />
+      <workItem from="1576689126020" duration="1049000" />
     </task>
     <servers />
   </component>
@@ -86,14 +94,19 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="571" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1576689134921">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="571" y="322" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.860@0.0.1440.860" timestamp="1576689134921" />
     <state x="321" y="71" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1575861771412">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="321" y="71" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.680@0.0.1280.680" timestamp="1575861771412" />
-    <state x="421" y="98" key="FileChooserDialogImpl" timestamp="1575861973412">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state x="474" y="124" key="FileChooserDialogImpl" timestamp="1576689626763">
+      <screen x="0" y="0" width="1440" height="860" />
     </state>
     <state x="421" y="98" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1575861973412" />
+    <state x="474" y="124" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1576689626763" />
     <state width="1237" height="163" key="GridCell.Tab.0.bottom" timestamp="1575861845715">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
