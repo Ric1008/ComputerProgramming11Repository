@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -13,6 +15,13 @@ int num;
         System.out.println(speed);
         System.out.println(maxSpeed
         );
+
+    }
+    public void here(){
+        int now=1;
+        Scanner scan=new (System.in);
+        int ran=scan.next;
+        if(ran==9);
     }
 
 }
